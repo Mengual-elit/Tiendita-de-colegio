@@ -714,7 +714,7 @@ function mostrarRol($cuenta)
 
     <link
         rel="stylesheet"
-        href="registrar_pago.css?v=<?php echo time(); ?>"
+        href="ModuloVendedor.css?v=<?php echo time(); ?>"
     >
 
 
